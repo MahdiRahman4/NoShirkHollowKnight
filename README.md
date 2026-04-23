@@ -3,7 +3,7 @@
 A Hollow Knight mod that replaces religious language, keeping the game's lore intact while removing theological framing.
 
 > [!WARNING]
-> **Mods do not work with the latest patch of Hollow Knight (as of April 23, 2025).**
+> **Mods do not work with the latest patch of Hollow Knight (as of April 23, 2026).**
 > You need to downpatch to version **1.5.78.11833**. To do this:
 > 1. Right-click Hollow Knight in Steam
 > 2. Click **Properties**
