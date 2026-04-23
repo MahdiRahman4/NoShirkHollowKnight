@@ -7,7 +7,7 @@ A Hollow Knight mod that replaces religious language, keeping the game's lore in
 > You need to downpatch to version **1.5.78.11833**. To do this:
 > 1. Right-click Hollow Knight in Steam
 > 2. Click **Properties**
-> 3. Go to **Betas**
+> 3. Go to **Game Version & Betas**
 > 4. Select version **1.5.78.11833**
 
 ## What it changes
