@@ -49,6 +49,10 @@ Search for **NoShirkHK** in Lumafly and click Install.
    alongside a `mod.json` file (included in the release)
 3. Launch the game — the mod name will appear in the top-left of the main menu
 
+## Reporting missing replacements
+
+If you find text in-game that wasn't replaced and should be, feel free to open an [Issue](../../issues) on this repo and let me know where you saw it (e.g. which NPC, area, or menu) as well as the word itself.
+
 ## Uninstalling
 
 Disable or uninstall through Lumafly, or delete the `NoShirkHK` folder from your `Mods` directory.
