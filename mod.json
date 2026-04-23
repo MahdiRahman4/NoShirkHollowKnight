@@ -1,0 +1,8 @@
+{
+  "Id": "NoShirkHK",
+  "Name": "No Shirk HK",
+  "Version": "1.0.0",
+  "Description": "Replaces the shirk in the text of the game",
+  "Author": "Mahdi Rahman",
+  "Dependencies": []
+}
