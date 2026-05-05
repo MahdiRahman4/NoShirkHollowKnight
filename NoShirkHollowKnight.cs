@@ -64,6 +64,9 @@ namespace NoShirkHK
             { "rituals",     "ceremonies" },
             { "Ritual",      "Ceremony"   },
             { "ritual",      "ceremony"   },
+            { "Idol",        "Icon"       },
+            { "idol",        "icon"       },
+            
         };
 
         private static readonly Regex _pattern = BuildPattern();
